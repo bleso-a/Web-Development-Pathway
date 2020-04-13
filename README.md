@@ -1,4 +1,4 @@
 # Web-Development-Pathway
 Will contain all web development projects
 - Fashion Blog Web Page
-- Wine Festival Schedule - shorturl.at/cPT02
+- Wine Festival Schedule - Preview at shorturl.at/cPT02
